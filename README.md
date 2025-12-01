@@ -1,85 +1,70 @@
-<!-- TITLE -->
-<h1 align="center">
-  <img src="https://api.iconify.design/solar:heart-angle-linear.svg?color=%23ff66cc" width="28"/>
-  Hi, I'm <strong>Ngọc Hân</strong>
-  <img src="https://api.iconify.design/solar:sparkles-bold-duotone.svg?color=%2300eaff" width="28"/>
-</h1>
-
-<p align="center">
-  <em>Backend Developer • Java Ecosystem • Automation Enthusiast</em><br>
-  <img src="https://api.iconify.design/solar:map-point-bold-duotone.svg?color=%23a855f7" width="18"/> Vietnam
-</p>
+# 🌸 Hi, I'm Ngọc Hân  
+_Backend Developer • Java + Spring Boot • Tester • Automation Enthusiast_  
+🇻🇳 Vietnam  
 
 ---
 
 ## ✨ About Me  
-<img src="https://api.iconify.design/solar:star-fall-bold-duotone.svg?color=%23facc15" width="22"/>  
-- 🔭 Working on: **E-Commerce & E-Learning Platforms**  
-- 🌱 Currently learning: **Spring Boot • ReactJS • DevOps basics**  
-- 💬 Ask me about: **Java Core • Servlet • Linux • Automation**  
+- 🌱 Working on: **E-Commerce & E-Learning Platforms**  
+- 🚀 Currently learning: **Spring Boot • ReactJS • DevOps basics**  
+- 💬 Ask me about: **Java Core • Servlet • Linux • Automation • Testing**  
 - 📫 Contact: **lengochan090105@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me  
-<p>
-  <a href="https://www.facebook.com/ngoc.han.485951">
-    <img src="https://api.iconify.design/solar:chat-round-like-bold-duotone.svg?color=%231877F2" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lê-ngọc-hân-580309322/">
-    <img src="https://api.iconify.design/solar:briefcase-bold-duotone.svg?color=%230A66C2" width="40"/>
-  </a>
-</p>
+| Icon | Description |
+|------|-------------|
+| <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/> | **LinkedIn** |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="30"/> | **Facebook** |
 
 ---
 
-## 🖥️ Core Backend  
-<p>
-  <img src="https://api.iconify.design/skill-icons:java-dark.svg" width="60"/>
-  <img src="https://api.iconify.design/devicon:spring.svg" width="60"/>
-  <img src="https://api.iconify.design/solar:document-code-linear.svg?color=%23555555" width="50"/>
-  <img src="https://api.iconify.design/devicon:microsoftsqlserver.svg" width="60"/>
-</p>
+## ☕ Core Backend  
+| Icon | Technology |
+|------|------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> | **Java** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/> | **Spring Boot** |
+| <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="40"/> | **SQL / MySQL** |
 
 ---
 
-## 🧰 Dev Tools & Infra  
-<p>
-  <img src="https://api.iconify.design/devicon:git.svg" width="55"/>
-  <img src="https://api.iconify.design/devicon:bash.svg" width="55"/>
-  <img src="https://api.iconify.design/devicon:vscode.svg" width="55"/>
-  <img src="https://api.iconify.design/devicon:intellij.svg" width="55"/>
-</p>
+## 🧪 Testing & QA  
+| Icon | Tool |
+|------|------|
+| <img src="https://cdn-icons-png.flaticon.com/512/906/906309.png" width="35"/> | **Manual Testing** |
+| <img src="https://cdn-icons-png.flaticon.com/512/906/906347.png" width="35"/> | **Postman** |
+| <img src="https://cdn-icons-png.flaticon.com/512/906/906363.png" width="35"/> | **JUnit (basic)** |
 
 ---
 
-## ⚙ Workflow & Automation  
-<p>
-  <img src="https://api.iconify.design/logos:n8n-icon.svg" width="60"/>
-</p>
+## 🛠️ Dev Tools & Infra  
+| Icon | Tool |
+|------|------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> | **Git** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35"/> | **GitHub** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35"/> | **IntelliJ IDEA** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/> | **Docker (basic)** |
 
 ---
 
-## 🎨 Frontend + UI  
-<p>
-  <img src="https://api.iconify.design/devicon:html5.svg" width="55"/>
-  <img src="https://api.iconify.design/devicon:css3.svg" width="55"/>
-  <img src="https://api.iconify.design/devicon:tailwindcss.svg" width="55"/>
-  <img src="https://api.iconify.design/devicon:bootstrap.svg" width="55"/>
-</p>
+## ⚙️ Workflow & Automation  
+| Icon | Tech |
+|------|------|
+| <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="35"/> | **Linux** |
+| <img src="https://cdn-icons-png.flaticon.com/512/906/906361.png" width="35"/> | **Shell Scripts** |
+| <img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="35"/> | **Automation tools** |
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ngochan901&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngochan901&layout=compact&theme=radical"/>
-</p>
+## 🎨 Frontend & UI  
+| Icon | Tech |
+|------|------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35"/> | **HTML** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35"/> | **CSS** |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35"/> | **Bootstrap** |
 
 ---
 
-<p align="center">
-  <img src="https://api.iconify.design/solar:planet-3-bold-duotone.svg?color=%23a855f7" width="28"/>
-  <em>Thanks for visiting my profile!</em>
-  <img src="https://api.iconify.design/solar:comet-2-bold-duotone.svg?color=%2300eaff" width="28"/>
-</p>
+## 💖 Cute Footer  
+> “Code with purpose. Test with care. Grow with passion.”  
