@@ -1,53 +1,85 @@
-<h2 align="center">Hi 👋, I'm Ngọc Hân</h2>
+<!-- TITLE -->
+<h1 align="center">
+  <img src="https://api.iconify.design/solar:heart-angle-linear.svg?color=%23ff66cc" width="28"/>
+  Hi, I'm <strong>Ngọc Hân</strong>
+  <img src="https://api.iconify.design/solar:sparkles-bold-duotone.svg?color=%2300eaff" width="28"/>
+</h1>
 
-### 🚀 Backend Developer | Java • Spring Boot | 🇻🇳 Vietnam
-
-- 🔭 I'm currently working on: **E-Commerce & E-Learning**
-- 🌱 I'm currently learning: **Spring Boot, ReactJS**
-- 💬 Ask me about: **Java Core, Servlet, Linux**
-- 📫 Reach me at: **lengochan090105@gmail.com**
-
----
-
-## 🌐 Connect with me  
-<a href="https://www.facebook.com/ngoc.han.485951"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/lê-ngọc-hân-580309322/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<p align="center">
+  <em>Backend Developer • Java Ecosystem • Automation Enthusiast</em><br>
+  <img src="https://api.iconify.design/solar:map-point-bold-duotone.svg?color=%23a855f7" width="18"/> Vietnam
+</p>
 
 ---
 
-## 🛠 Tech Stack
-
-### 🖥️ Core Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-4285F4?style=for-the-badge)
-![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
----
-
-### 🧰 Dev Tools & Infra
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+## ✨ About Me  
+<img src="https://api.iconify.design/solar:star-fall-bold-duotone.svg?color=%23facc15" width="22"/>  
+- 🔭 Working on: **E-Commerce & E-Learning Platforms**  
+- 🌱 Currently learning: **Spring Boot • ReactJS • DevOps basics**  
+- 💬 Ask me about: **Java Core • Servlet • Linux • Automation**  
+- 📫 Contact: **lengochan090105@gmail.com**
 
 ---
 
-### ⚙ Workflow & Automation
-![N8N](https://img.shields.io/badge/n8n-FE51A0?style=for-the-badge&logo=n8n&logoColor=white)
+## 🌐 Connect With Me  
+<p>
+  <a href="https://www.facebook.com/ngoc.han.485951">
+    <img src="https://api.iconify.design/solar:chat-round-like-bold-duotone.svg?color=%231877F2" width="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lê-ngọc-hân-580309322/">
+    <img src="https://api.iconify.design/solar:briefcase-bold-duotone.svg?color=%230A66C2" width="40"/>
+  </a>
+</p>
 
 ---
 
-### 🎨 Frontend + UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🖥️ Core Backend  
+<p>
+  <img src="https://api.iconify.design/skill-icons:java-dark.svg" width="60"/>
+  <img src="https://api.iconify.design/devicon:spring.svg" width="60"/>
+  <img src="https://api.iconify.design/solar:document-code-linear.svg?color=%23555555" width="50"/>
+  <img src="https://api.iconify.design/devicon:microsoftsqlserver.svg" width="60"/>
+</p>
+
+---
+
+## 🧰 Dev Tools & Infra  
+<p>
+  <img src="https://api.iconify.design/devicon:git.svg" width="55"/>
+  <img src="https://api.iconify.design/devicon:bash.svg" width="55"/>
+  <img src="https://api.iconify.design/devicon:vscode.svg" width="55"/>
+  <img src="https://api.iconify.design/devicon:intellij.svg" width="55"/>
+</p>
+
+---
+
+## ⚙ Workflow & Automation  
+<p>
+  <img src="https://api.iconify.design/logos:n8n-icon.svg" width="60"/>
+</p>
+
+---
+
+## 🎨 Frontend + UI  
+<p>
+  <img src="https://api.iconify.design/devicon:html5.svg" width="55"/>
+  <img src="https://api.iconify.design/devicon:css3.svg" width="55"/>
+  <img src="https://api.iconify.design/devicon:tailwindcss.svg" width="55"/>
+  <img src="https://api.iconify.design/devicon:bootstrap.svg" width="55"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ngochan901&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngochan901&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ngochan901&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngochan901&layout=compact&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://api.iconify.design/solar:planet-3-bold-duotone.svg?color=%23a855f7" width="28"/>
+  <em>Thanks for visiting my profile!</em>
+  <img src="https://api.iconify.design/solar:comet-2-bold-duotone.svg?color=%2300eaff" width="28"/>
 </p>
