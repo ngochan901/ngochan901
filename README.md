@@ -13,7 +13,7 @@
 
 <p align="center">
  🔭 <b>Working on:</b> E-Commerce & E-Learning Platforms<br>
- 🌱 <b>Learning:</b> Spring Boot • ReactJS • DevOps basics<br>
+ 🌱 <b>Learning:</b> Spring Boot • DevOps basics<br>
  💬 <b>Ask me about:</b> Java Core • Servlet • Automation<br>
  💌 <b>Contact:</b> <a href="mailto:lengochan090105@gmail.com">lengochan090105@gmail.com</a>
 </p>
