@@ -26,11 +26,11 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;
-  <!-- <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/l%C3%AA-ng%E1%BB%8Dc-h%C3%A2n-580309322/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp; -->
+  <!-- LinkedIn -->
+  <!-- <a href="https://www.linkedin.com/in/l%C3%AA-ng%E1%BB%8Dc-h%C3%A2n-580309322/" target="_blank"> -->
+    <!-- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> -->
+  <!-- </a> -->
+  <!-- &nbsp; -->
   <!-- Gmail -->
   <a href="mailto:lengochan090105@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
